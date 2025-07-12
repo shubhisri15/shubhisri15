@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-My name is Shubhi Srivastava, an avid UX enthusiast who loves both design and development. 
+My name is Shubhi Srivastava, an avid UX enthusiast who loves both design and development.
+
 My current skills and tools: Figma, React.js, Javascript, Typescript, HTML+CSS, Tailwind CSS, Netlify (and some fooling around with Next.js).
 
 I am always open to learning new skills, and collaborating on projects that allow me to think out of the box and set my brain on fire. 
